@@ -11,8 +11,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad7e16ad-96e8-4242-aa11-a25ecc74c9c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+    <list default="true" id="ad7e16ad-96e8-4242-aa11-a25ecc74c9c8" name="Default" comment="Initial commit&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hello Warudo.iws" />
@@ -369,7 +368,11 @@
       <created>1393415670575</created>
       <updated>1393415670575</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;">
+      <created>1393422129159</created>
+      <updated>1393422129159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
